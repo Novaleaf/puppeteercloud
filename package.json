@@ -1,0 +1,19 @@
+{
+  "name": "puppeteercloud",
+  "version": "0.0.0",
+  "description": "node bindings for puppeteercloud (placeholder)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Novaleaf/puppeteercloud-node.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Novaleaf/puppeteercloud-node/issues"
+  },
+  "homepage": "https://github.com/Novaleaf/puppeteercloud-node#readme"
+}
